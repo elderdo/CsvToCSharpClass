@@ -1,19 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using CsvToCSharpClass.Library;
-using System.IO;
-using System.Text.RegularExpressions;
+﻿
+DirectoryInfo directoryInfo = new DirectoryInfo("Data");
+FileInfo[] fileInfo = directoryInfo.GetFiles("*.csv");
 
-namespace CsvToCSharpClass.Console
+foreach (var file in fileInfo)
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var cSharpClass = CsvToClass.CSharpClassCodeFromCsvFile(@"..\..\..\ExampleFiles\InputFile.csv", ",", "[DelimitedRecord(\",\")]", "[FieldOptional()]");
-            File.WriteAllText(@"..\..\..\ExampleFiles\OutputFile.cs", cSharpClass);
-        }
-    }
+    string path = file.FullName;
+    string fileName = file.Name;
+    //var cSharpClass = CsvToClass.CSharpClassCodeFromCsvFile(@"Data\InputFile.csv", ",", "[DelimitedRecord(\",\")]", "[FieldOptional()]");
+    var cSharpClass = CsvToClass.CSharpClassCodeFromCsvFile(path);
+    File.WriteAllText(@"Data\" + fileName.Split(".")[0] + ".cs", cSharpClass);
 }
+
+

@@ -1,14 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.IO;
-using System.Text.RegularExpressions;
+﻿
 
 namespace CsvToCSharpClass.Library
 {
     public class CsvToClass
     {
+        public static string ConvertToUpperCamelCase(string input)
+        {
+            if (string.IsNullOrEmpty(input))
+                return string.Empty;
+
+            // Split the string by underscore and convert each word to title case
+            var words = input.Split('_').Select(word => System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(word.ToLower()));
+
+            // Join the words back together
+            string result = string.Join("", words);
+
+            return result;
+        }
+
         public static string CSharpClassCodeFromCsvFile(string filePath, string delimiter = ",", 
             string classAttribute = "", string propertyAttribute = "")
         {
@@ -19,18 +28,22 @@ namespace CsvToCSharpClass.Library
 
             string[] lines = File.ReadAllLines(filePath);
             string[] columnNames = lines.First().Split(',').Select(str => str.Trim()).ToArray();
+            // Using LINQ to convert each string in the list
+            var resultList = columnNames.Select(ConvertToUpperCamelCase).ToList(); 
             string[] data = lines.Skip(1).ToArray();
 
             string className = Path.GetFileNameWithoutExtension(filePath);
             // use StringBuilder for better performance
             string code = String.Format("{0}public class {1} {{ \n", classAttribute, className);
 
-            for (int columnIndex = 0; columnIndex < columnNames.Length; columnIndex++)
+            int columnIndex = 0;
+            foreach (var columnName in resultList)
             {
-                var columnName = Regex.Replace(columnNames[columnIndex], @"[\s\.]", string.Empty, RegexOptions.IgnoreCase);
-                if (string.IsNullOrEmpty(columnName))
-                    columnName = "Column" + (columnIndex + 1);
+                var name = Regex.Replace(columnName, @"[\s\.]", string.Empty, RegexOptions.IgnoreCase);
+                if (string.IsNullOrEmpty(name))
+                    name = "Column" + (columnIndex + 1);
                 code += "\t" + GetVariableDeclaration(data, columnIndex, columnName, propertyAttribute) + "\n\n";
+                columnIndex++;
             }
 
             code += "}\n";

@@ -1,0 +1,13 @@
+TRANS_ID,TRANS_DESC
+3,'Add Tracker RFID'
+6,'Close Tracking ID'
+16,'RFS Cancel'
+17,'RFS Refuse to Move'
+18,'RFS Resubmit'
+19,'RFS Start'
+20,'RFS Stop'
+23,'Search All RFID'
+24,'Search Single RFID'
+1,'Upd Tracker Location'
+25,'Update Location By RFID'
+22,'Update RFID Tag Location'

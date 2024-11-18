@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zf297a\\Documents\\C#\\CsvToCSharpClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F72882F3-45ED-4081-B931-1BED2A34BDFE}|CsvToCSharpClassApp\\CsvToCSharpClassApp.csproj|c:\\users\\zf297a\\documents\\c#\\csvtocsharpclass\\csvtocsharpclassapp\\bin\\csvtocsharpclass\\net8.0\\data\\mobilegroups.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F72882F3-45ED-4081-B931-1BED2A34BDFE}|CsvToCSharpClassApp\\CsvToCSharpClassApp.csproj|solutionrelative:csvtocsharpclassapp\\bin\\csvtocsharpclass\\net8.0\\data\\mobilegroups.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72882F3-45ED-4081-B931-1BED2A34BDFE}|CsvToCSharpClassApp\\CsvToCSharpClassApp.csproj|c:\\users\\zf297a\\documents\\c#\\csvtocsharpclass\\csvtocsharpclassapp\\bin\\csvtocsharpclass\\net8.0\\data\\mobileenvironments.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F72882F3-45ED-4081-B931-1BED2A34BDFE}|CsvToCSharpClassApp\\CsvToCSharpClassApp.csproj|solutionrelative:csvtocsharpclassapp\\bin\\csvtocsharpclass\\net8.0\\data\\mobileenvironments.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72882F3-45ED-4081-B931-1BED2A34BDFE}|CsvToCSharpClassApp\\CsvToCSharpClassApp.csproj|c:\\users\\zf297a\\documents\\c#\\csvtocsharpclass\\csvtocsharpclassapp\\bin\\csvtocsharpclass\\net8.0\\data\\mobileenvironments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72882F3-45ED-4081-B931-1BED2A34BDFE}|CsvToCSharpClassApp\\CsvToCSharpClassApp.csproj|solutionrelative:csvtocsharpclassapp\\bin\\csvtocsharpclass\\net8.0\\data\\mobileenvironments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FF62C5-B84B-46EC-8938-D2CF9C26CE88}|CsvToCSharpClass\\CsvToCSharpClass.csproj|c:\\users\\zf297a\\documents\\c#\\csvtocsharpclass\\csvtocsharpclass\\csvtoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FF62C5-B84B-46EC-8938-D2CF9C26CE88}|CsvToCSharpClass\\CsvToCSharpClass.csproj|solutionrelative:csvtocsharpclass\\csvtoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72882F3-45ED-4081-B931-1BED2A34BDFE}|CsvToCSharpClassApp\\CsvToCSharpClassApp.csproj|c:\\users\\zf297a\\documents\\c#\\csvtocsharpclass\\csvtocsharpclassapp\\bin\\csvtocsharpclass\\net8.0\\data\\mobilegroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72882F3-45ED-4081-B931-1BED2A34BDFE}|CsvToCSharpClassApp\\CsvToCSharpClassApp.csproj|solutionrelative:csvtocsharpclassapp\\bin\\csvtocsharpclass\\net8.0\\data\\mobilegroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72882F3-45ED-4081-B931-1BED2A34BDFE}|CsvToCSharpClassApp\\CsvToCSharpClassApp.csproj|c:\\users\\zf297a\\documents\\c#\\csvtocsharpclass\\csvtocsharpclassapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72882F3-45ED-4081-B931-1BED2A34BDFE}|CsvToCSharpClassApp\\CsvToCSharpClassApp.csproj|solutionrelative:csvtocsharpclassapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72882F3-45ED-4081-B931-1BED2A34BDFE}|CsvToCSharpClassApp\\CsvToCSharpClassApp.csproj|c:\\users\\zf297a\\documents\\c#\\csvtocsharpclass\\csvtocsharpclassapp\\csvtocsharpclassapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F72882F3-45ED-4081-B931-1BED2A34BDFE}|CsvToCSharpClassApp\\CsvToCSharpClassApp.csproj|solutionrelative:csvtocsharpclassapp\\csvtocsharpclassapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 377,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MobileGroups.csv",
+              "DocumentMoniker": "C:\\Users\\zf297a\\Documents\\C#\\CsvToCSharpClass\\CsvToCSharpClassApp\\bin\\CsvToCSharpClass\\net8.0\\Data\\MobileGroups.csv",
+              "RelativeDocumentMoniker": "CsvToCSharpClassApp\\bin\\CsvToCSharpClass\\net8.0\\Data\\MobileGroups.csv",
+              "ToolTip": "C:\\Users\\zf297a\\Documents\\C#\\CsvToCSharpClass\\CsvToCSharpClassApp\\bin\\CsvToCSharpClass\\net8.0\\Data\\MobileGroups.csv",
+              "RelativeToolTip": "CsvToCSharpClassApp\\bin\\CsvToCSharpClass\\net8.0\\Data\\MobileGroups.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-03T17:14:00.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MobileEnvironments.csv",
+              "DocumentMoniker": "C:\\Users\\zf297a\\Documents\\C#\\CsvToCSharpClass\\CsvToCSharpClassApp\\bin\\CsvToCSharpClass\\net8.0\\Data\\MobileEnvironments.csv",
+              "RelativeDocumentMoniker": "CsvToCSharpClassApp\\bin\\CsvToCSharpClass\\net8.0\\Data\\MobileEnvironments.csv",
+              "ToolTip": "C:\\Users\\zf297a\\Documents\\C#\\CsvToCSharpClass\\CsvToCSharpClassApp\\bin\\CsvToCSharpClass\\net8.0\\Data\\MobileEnvironments.csv",
+              "RelativeToolTip": "CsvToCSharpClassApp\\bin\\CsvToCSharpClass\\net8.0\\Data\\MobileEnvironments.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-03T16:22:07.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MobileGroups.cs",
+              "DocumentMoniker": "C:\\Users\\zf297a\\Documents\\C#\\CsvToCSharpClass\\CsvToCSharpClassApp\\bin\\CsvToCSharpClass\\net8.0\\Data\\MobileGroups.cs",
+              "RelativeDocumentMoniker": "CsvToCSharpClassApp\\bin\\CsvToCSharpClass\\net8.0\\Data\\MobileGroups.cs",
+              "ToolTip": "C:\\Users\\zf297a\\Documents\\C#\\CsvToCSharpClass\\CsvToCSharpClassApp\\bin\\CsvToCSharpClass\\net8.0\\Data\\MobileGroups.cs",
+              "RelativeToolTip": "CsvToCSharpClassApp\\bin\\CsvToCSharpClass\\net8.0\\Data\\MobileGroups.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:22:04.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MobileEnvironments.cs",
+              "DocumentMoniker": "C:\\Users\\zf297a\\Documents\\C#\\CsvToCSharpClass\\CsvToCSharpClassApp\\bin\\CsvToCSharpClass\\net8.0\\Data\\MobileEnvironments.cs",
+              "RelativeDocumentMoniker": "CsvToCSharpClassApp\\bin\\CsvToCSharpClass\\net8.0\\Data\\MobileEnvironments.cs",
+              "ToolTip": "C:\\Users\\zf297a\\Documents\\C#\\CsvToCSharpClass\\CsvToCSharpClassApp\\bin\\CsvToCSharpClass\\net8.0\\Data\\MobileEnvironments.cs",
+              "RelativeToolTip": "CsvToCSharpClassApp\\bin\\CsvToCSharpClass\\net8.0\\Data\\MobileEnvironments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:29:33.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CsvToClass.cs",
+              "DocumentMoniker": "C:\\Users\\zf297a\\Documents\\C#\\CsvToCSharpClass\\CsvToCSharpClass\\CsvToClass.cs",
+              "RelativeDocumentMoniker": "CsvToCSharpClass\\CsvToClass.cs",
+              "ToolTip": "C:\\Users\\zf297a\\Documents\\C#\\CsvToCSharpClass\\CsvToCSharpClass\\CsvToClass.cs",
+              "RelativeToolTip": "CsvToCSharpClass\\CsvToClass.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA3wDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:30:51.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CsvToCSharpClassApp",
+              "DocumentMoniker": "C:\\Users\\zf297a\\Documents\\C#\\CsvToCSharpClass\\CsvToCSharpClassApp\\CsvToCSharpClassApp.csproj",
+              "RelativeDocumentMoniker": "CsvToCSharpClassApp\\CsvToCSharpClassApp.csproj",
+              "ToolTip": "C:\\Users\\zf297a\\Documents\\C#\\CsvToCSharpClass\\CsvToCSharpClassApp\\CsvToCSharpClassApp.csproj",
+              "RelativeToolTip": "CsvToCSharpClassApp\\CsvToCSharpClassApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T14:32:49.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zf297a\\Documents\\C#\\CsvToCSharpClass\\CsvToCSharpClassApp\\Program.cs",
+              "RelativeDocumentMoniker": "CsvToCSharpClassApp\\Program.cs",
+              "ToolTip": "C:\\Users\\zf297a\\Documents\\C#\\CsvToCSharpClass\\CsvToCSharpClassApp\\Program.cs",
+              "RelativeToolTip": "CsvToCSharpClassApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:16:54.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 74,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a18f9d0-b838-11d0-93eb-00a0c90f2734}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 107,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
